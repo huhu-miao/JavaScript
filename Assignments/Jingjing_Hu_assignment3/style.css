@@ -1,0 +1,15 @@
+.table_style {
+  border: 2px solid rgb(3, 3, 3);
+  border-collapse: collapse;
+  text-align: center;
+  padding: 5px;
+}
+
+.list_style {
+  padding-left: 50px;
+}
+
+.dropdown_style {
+  margin-left: 30px;
+  margin-bottom: 200px;
+}
